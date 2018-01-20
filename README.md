@@ -1,2 +1,4 @@
 # hello-world
-my own repository
+这里应该可以写中文的
+
+第一次用GitHub 现在正在学习，希望自己可以写出什么东西出来。同时还是希望多学习一点知识
